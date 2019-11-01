@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/searchaap.iml" filepath="$PROJECT_DIR$/.idea/modules/searchaap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/searchaap_main.iml" filepath="$PROJECT_DIR$/.idea/modules/searchaap_main.iml" group="searchaap" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/searchaap_test.iml" filepath="$PROJECT_DIR$/.idea/modules/searchaap_test.iml" group="searchaap" />
+    </modules>
+  </component>
+</project>
